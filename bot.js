@@ -19,7 +19,7 @@ bot.music.start(bot, {
 
 // Events.
 bot.on("ready", function() {
-    bot.user.setActivity(`Music Bot by SHINCHAN#6969`);
+    bot.user.setActivity(`Music Bot by SHINCHAN`);
     console.log(`${bot.user.username} is Ready!`);
 });
 
